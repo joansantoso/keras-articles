@@ -1,2 +1,7 @@
-# keras-articles
-Ini adalah repository untuk code yang ditulis pada artikel Medium terkait dengan Keras
+# Code Repository untuk Artikel Keras di Medium.
+
+Ini adalah repository untuk code yang ditulis pada artikel Medium terkait dengan Keras.
+
+Link Medium :
+1. Apa itu Keras di Machine Learning [LINK](https://medium.com/@joansantoso/apa-itu-keras-di-machine-learning-7d7a1b349fe1)
+2. Filosofi Membangun Model di Keras [LINK]()
